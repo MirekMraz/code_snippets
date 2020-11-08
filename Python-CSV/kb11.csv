@@ -1,0 +1,37 @@
+"MojeBanka, export transakèní historie";
+"Datum vytvoøení souboru";"08.11.2020";
+
+"Èíslo úètu";"115-5896820257 CZK";
+"IBAN";"CZ3901000001155896820257";
+"Název úètu";"MRÁZ MIROSLAV";
+"Vlastní název úètu";"MRÁZ MIROSLAV";
+"Výpis za období";"01.11.2020";
+;"30.11.2020";
+"Èíslo výpisu";"11";
+"Pøedchozí výpis ze dne";"31.10.2020";
+"Poèet položek";"19";
+"Poèáteèní zùstatek";"52828,69";
+"Celkem odepsáno (-)";"10855,70";
+"Celkem pøipsáno (+)";"18400,00";
+"Koneèný zùstatek";"60372,99";
+
+"Datum splatnosti";"Datum odepsání z jiné banky";"Protiúèet a kód banky";"Název protiúètu";"Èástka";"Originální èástka";"Originální mìna";"Kurz";"VS";"KS";"SS";"Identifikace transakce";"Systémový popis";"Popis pøíkazce";"Popis pro pøíjemce";"AV pole 1";"AV pole 2";"AV pole 3";"AV pole 4";
+"06.11.2020";"06.11.2020";"86-47824621/0710";"ÚP Brno";"+18400,00";"";"";"";"56887804";"0";"0";"120-20201106 20B05D4055404";"Pøíchozí úhrada";"ÚP Brno";;"RodP 10/20                         ";"                                   ";"                                   ";"                                   ";
+"06.11.2020";;"66443322/0100";"INNOGY ENERGIE";"-840,00";"";"";"";"5285308000";"0";"0";"000-06112020 005-005-001426320";"Platba na vrub vašeho úètu";"INNOGY - ELEKTØINA";"NA   CK-0000000066443322";"                                   ";"                                   ";"                                   ";"                                   ";
+"06.11.2020";;"2801245373/2010";;"-432,00";"";"";"";"90057";"0";"0";"001-06112020 1602 602033 617191";"Platba na vrub vašeho úètu";;;"Amálie Mrázová - strava            ";"                                   ";"                                   ";"                                   ";
+"06.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-242,70";"";"";"";"9656683";"1178";"102323001";"205-06112020 1086000890315";"Nákup u obchodníka";"20201106 PLATEBNÍ KARTY";;"PAYPAL *GSUITEADDON                ";"4029357733                 SG   51 ";"4779 75** **** 8076        VISA    ";"04.11.2020               242,70 CZK";
+"05.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-310,45";"";"";"";"9686461";"1178";"102123001";"205-05112020 1086000986668";"Nákup bezkontaktní kartou";"20201105 PLATEBNÍ KARTY";;"JEDNOTA PJ C. 007                  ";"BRECLAV 4                  CZ   36 ";"4779 75** **** 6818        VISA    ";"03.11.2020               310,45 CZK";
+"05.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-20,00";"";"";"";"9656683";"898";"202423001";"205-05112020 1086000101808";"Doplòkové služby ke kartì";"20201105 PLATEBNÍ KARTY";;"                                   ";"                                   ";"                                   ";"                                   ";
+"04.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-1278,00";"";"";"";"9686461";"1178";"102123001";"205-04112020 1086000397944";"Nákup na internetu 3D Secure";"20201104 PLATEBNÍ KARTY";;"MALL.CZ                            ";"PRAHA - HOLES              CZ   30 ";"4779 75** **** 6818        VISA    ";"02.11.2020             1.278,00 CZK";
+"04.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-483,00";"";"";"";"9656683";"1178";"102123001";"205-04112020 1086000415363";"Nákup na internetu ";"20201104 PLATEBNÍ KARTY";;"GOPAY  *NEFERTITIS.CZ              ";"nefertitis.cz              CZ   33 ";"4779 75** **** 8076        VISA    ";"02.11.2020               483,00 CZK";
+"03.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-1195,30";"";"";"";"9656683";"1178";"102013001";"205-03112020 1086000228417";"Nákup u obchodníka";"20201103 PLATEBNÍ KARTY";;"CS PHM BRECLAV                     ";"BRECLAV                    CZ   51 ";"4779 75** **** 8076        VISA    ";"02.11.2020             1.195,30 CZK";
+"03.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-945,00";"";"";"";"9686461";"1178";"102123001";"205-03112020 1086000584645";"Nákup na internetu 3D Secure";"20201103 PLATEBNÍ KARTY";;"MATEJOVSKY A.S.                    ";"SEMILY                     CZ   30 ";"4779 75** **** 6818        VISA    ";"01.11.2020               945,00 CZK";
+"03.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-604,00";"";"";"";"9686461";"1178";"102323001";"205-03112020 1086000601989";"Nákup na internetu ";"20201103 PLATEBNÍ KARTY";;"GOPAY  *DEDOLES.CZ                 ";"PEZINOK                    SK   33 ";"4779 75** **** 6818        VISA    ";"01.11.2020               604,00 CZK";
+"03.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-213,00";"";"";"";"9656683";"1178";"102123001";"205-03112020 1086000587959";"Nákup bezkontaktní kartou";"20201103 PLATEBNÍ KARTY";;"KANTYNA                            ";"BRECLAV                    CZ   36 ";"4779 75** **** 8076        VISA    ";"01.11.2020               213,00 CZK";
+"02.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-1248,30";"";"";"";"9686461";"1178";"102123001";"205-02112020 1086001981579";"Nákup bezkontaktní kartou";"20201031 PLATEBNÍ KARTY";;"ALBERT VAM DEKUJE                  ";"BRECLAV                    CZ   36 ";"4779 75** **** 6818        VISA    ";"30.10.2020             1.248,30 CZK";
+"02.11.2020";;"666777-9604065834/2700";;"-1000,00";"";"";"";"9604065834";"0";"0";"000-02112020 005-005-001570050";"Odchozí úhrada";"AMÁLKA CONSEQ";"NA   AC-6667779604065834";"                                   ";"                                   ";"                                   ";"                                   ";
+"02.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-831,00";"";"";"";"9656683";"1178";"102123001";"205-02112020 1086001999110";"Nákup bezkontaktní kartou";"20201031 PLATEBNÍ KARTY";;"CESKA POSTA 69007                  ";"BRECLAV                    CZ   36 ";"4779 75** **** 8076        VISA    ";"30.10.2020               831,00 CZK";
+"02.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-512,20";"";"";"";"9656683";"1178";"102123001";"205-02112020 1086001706893";"Nákup bezkontaktní kartou";"20201031 PLATEBNÍ KARTY";;"ALBERT VAM DEKUJE                  ";"BRECLAV                    CZ   36 ";"4779 75** **** 8076        VISA    ";"29.10.2020               512,20 CZK";
+"02.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-296,55";"";"";"";"9656683";"1178";"102123001";"205-02112020 1086001785804";"Nákup bezkontaktní kartou";"20201031 PLATEBNÍ KARTY";;"EWPI s.r.o.                        ";"Breclav                    CZ   36 ";"4779 75** **** 8076        VISA    ";"29.10.2020               296,55 CZK";
+"02.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-277,00";"";"";"";"9656683";"1178";"102123001";"205-02112020 1086001506968";"Nákup bezkontaktní kartou";"20201031 PLATEBNÍ KARTY";;"Herba zdrava vyziva Bre            ";"Breclav                    CZ   36 ";"4779 75** **** 8076        VISA    ";"29.10.2020               277,00 CZK";
+"02.11.2020";;"";"PLATEBNÍ KARTY VISA CZK";"-127,20";"";"";"";"9656683";"1178";"102123001";"205-02112020 1086002364608";"Nákup bezkontaktní kartou";"20201101 PLATEBNÍ KARTY";;"LIDL DEKUJE ZA NAKUP               ";"BRECLAV                    CZ   36 ";"4779 75** **** 8076        VISA    ";"31.10.2020               127,20 CZK";
